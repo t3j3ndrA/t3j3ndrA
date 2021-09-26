@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mongodb-151515?style=for-the-badge&logo=mongodb&logoColor=79740e&labelColor=151515)
 
 ## My Handles
- [<img src="https://img.shields.io/badge/TEJENDRA%20DHANANI-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dhanani-tejendra-b87351210/)
+ [<img src="https://img.shields.io/badge/TEJENDRA%20DHANANI-151515?style=for-the-badge&logo=linkedin&logoColor=79740e">](https://www.linkedin.com/in/dhanani-tejendra-b87351210/)
  [<img src="https://img.shields.io/badge/t3j3ndrA-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/t3j3ndrA) 
- [<img src="https://img.shields.io/badge/t3j3ndrA-151515?style=for-the-badge&logo=codeforces&logoColor=red">](https://codeforces.com/profile/t3j) 
- [<img src="https://img.shields.io/badge/t3j3ndrA-151515?style=for-the-badge&logo=codechef&logoColor=ffffff">](https://www.codechef.com/users/t3j3ndra) 
+ [<img src="https://img.shields.io/badge/t3j3ndrA-151515?style=for-the-badge&logo=codeforces&logoColor=79740e">](https://codeforces.com/profile/t3j) 
+ [<img src="https://img.shields.io/badge/t3j3ndrA-151515?style=for-the-badge&logo=codechef&logoColor=79740e">](https://www.codechef.com/users/t3j3ndra) 
 
 ![Profile views](https://gpvc.arturio.dev/t3j3ndrA)
